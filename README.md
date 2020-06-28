@@ -1,1 +1,1 @@
-# uber-riders-prediction
+# uber_rides
